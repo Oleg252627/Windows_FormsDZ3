@@ -1,0 +1,11 @@
+E:\proga_Visual\Windows_Form\DZ3zad1\DZ3zad1\bin\Debug\DZ3zad1.exe.config
+E:\proga_Visual\Windows_Form\DZ3zad1\DZ3zad1\bin\Debug\DZ3zad1.exe
+E:\proga_Visual\Windows_Form\DZ3zad1\DZ3zad1\bin\Debug\DZ3zad1.pdb
+E:\proga_Visual\Windows_Form\DZ3zad1\DZ3zad1\obj\Debug\DZ3zad1.csprojResolveAssemblyReference.cache
+E:\proga_Visual\Windows_Form\DZ3zad1\DZ3zad1\obj\Debug\DZ3zad1.Form1.resources
+E:\proga_Visual\Windows_Form\DZ3zad1\DZ3zad1\obj\Debug\DZ3zad1.Properties.Resources.resources
+E:\proga_Visual\Windows_Form\DZ3zad1\DZ3zad1\obj\Debug\DZ3zad1.csproj.GenerateResource.Cache
+E:\proga_Visual\Windows_Form\DZ3zad1\DZ3zad1\obj\Debug\DZ3zad1.exe
+E:\proga_Visual\Windows_Form\DZ3zad1\DZ3zad1\obj\Debug\DZ3zad1.pdb
+E:\proga_Visual\Windows_Form\DZ3zad1\DZ3zad1\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\proga_Visual\Windows_Form\DZ3zad1\DZ3zad1\obj\Debug\DZ3zad1.Form2_Poisk.resources
