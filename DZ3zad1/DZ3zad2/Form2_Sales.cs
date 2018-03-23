@@ -58,9 +58,14 @@ namespace DZ3zad2
                 MessageBox.Show("Заполните все поля!", "Предупреждение", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
-
+            
             try
             {
+                if (Convert.ToDouble(this.textBox1_Prise.Text) < 0)
+                {
+                    MessageBox.Show("Цена не может быть меньше 0", "Предупреждение", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
                 this.tovar.Name = this.textBox1_Model.Text;
                 this.tovar.Opisanie = this.textBox2_Opisanie.Text;
                 this.tovar.Prise = Convert.ToDouble(this.textBox1_Prise.Text);
